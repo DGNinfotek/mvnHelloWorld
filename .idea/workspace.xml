@@ -22,11 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bb30fc9-9717-4805-9a65-900ace5acd3d" name="Default Changelist" comment="testing...">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/apple/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/apple/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="0bb30fc9-9717-4805-9a65-900ace5acd3d" name="Default Changelist" comment="unit test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597563520595</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="unit test">
+      <created>1598205610754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598205610754</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,7 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing..." />
-    <option name="LAST_COMMIT_MESSAGE" value="testing..." />
+    <MESSAGE value="unit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="unit test" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1597680535605">
@@ -114,10 +118,10 @@
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1597680535604" />
     <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1597563516408" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1597563544557">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1598205621573">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1597563544557" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1598205621573" />
     <state x="561" y="265" width="670" height="675" key="run.anything.popup" timestamp="1597562949918">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
