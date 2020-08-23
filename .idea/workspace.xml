@@ -24,6 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0bb30fc9-9717-4805-9a65-900ace5acd3d" name="Default Changelist" comment="testing...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apple/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/apple/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
